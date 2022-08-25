@@ -1,0 +1,21 @@
+{
+  "name": "@hismalawi/machine-driver-utility",
+  "version": "1.0.0",
+  "description": "Build urls for iblis and send data to iblis",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "BuildUrls"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hopgausi/machine-driver-utility.git"
+  },
+  "author": "Hopson Gausi",
+  "license": "ISC",
+  "dependencies": {
+    "node-rest-client": "^3.1.1"
+  }
+}
