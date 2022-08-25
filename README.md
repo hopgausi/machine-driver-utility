@@ -10,7 +10,7 @@ let sampleID = 123456;
 let measureID = 45;
 let result = '45.6721';
 
-utils.buildUrl(lisP, sampleID, measureID, result);
+utils.buildUrl(baseURL, sampleID, measureID, result);
 
 // Access urls i.e array of urls
 let urls = utils.urls;
