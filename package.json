@@ -1,6 +1,6 @@
 {
   "name": "@hismalawi/machine-driver-utility",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Build urls for iblis and send data to iblis",
   "main": "index.js",
   "scripts": {

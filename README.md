@@ -8,9 +8,9 @@ var utils = require('@hismalawi/machine-driver-utility');
 let baseURL = 'http:localhost:8000/api/update_result';
 let sampleID = 123456;
 let measureID = 45;
-let result = '45.6721;
+let result = '45.6721';
 
-utils..buildUrl(lisP, sampleID, measureID, result);
+utils.buildUrl(lisP, sampleID, measureID, result);
 
 // Access urls i.e array of urls
 let urls = utils.urls;
